@@ -1,0 +1,10 @@
+Hello, I need a simple web app only front-end unsing react. A furniture web site. There will be furniture and 
+user can select furniture. The selected furniture will add on the orderlist. The order list will on the top of
+the page in a box. under the order list there will be two button . 
+There have more information you need to know before staring the project .
+Note: Use bootstrap 5
+Note: Mobile responsive Design
+Note: React js only (for forntend development)
+
+If you're available for this project please let me know. we will discuss more about it. 
+Thanks...
